@@ -1,2 +1,27 @@
 # Coronga-Mega-Vacina-Supimpa
- 
+
+Extensão criada a fim de imunizar a internet do corona vírus COVID19 - SARS-CoV2 , aplicando vacinas de modo compulsório.
+
+> A Coronga Mega Vacina Supimpa é uma extensão que detecta nomes como "coronavirus, coronavírus, corona virus, corona vírus, covid-19, covid19, covid" presente nas páginas e trocando por um ícone da vacina 💉 automaticamente.
+Essa extensão faz parte do desafio do Codigo Falado '#CoronaKindle' (" https://twitter.com/CodigoFalado/status/1244296923424702465?ref_src=twsrc%5Etfw ").
+
+## Compatibilidade
+
+ -  Mozilla Firefox 
+ -  Google Chrome
+
+
+## Como usar:
+### Instalar no Chorme
+
+Faça o download deste repositório, extraia o conteúdo para algum diretório conhecido
+Em seu navegador, vá para a página **chrome://extensions**
+Marque a checkbox **Developer mode**
+Clique no botão **Carregar sem compactação** e selecione no diretório extraído a pasta Chrome
+
+
+### Instalar no Mozilla
+
+Faça o download deste repositório, extraia o conteúdo para algum diretório conhecido
+Em seu navegador, vá para a página **about:debugging#/runtime/this-firefox**
+Na aba em **Temporary Extensions** clique no botão clique **Load Temporary Add-on...**  e selecione no diretório extraído a pasta Mozilla e selecione o arquivo **coronga.js**
