@@ -11,19 +11,21 @@ Essa extensão faz parte do desafio do Codigo Falado '#CoronaKindle' (" https://
  -  Google Chrome
 
 
-## Como usar:
-
-Acesse qualquer pagina web que possua as palavras chaves "coronavirus, coronavírus, corona virus, corona vírus, covid-19, covid19, covid".
-
-
+## Instalação
 ### Instalar no Chorme
 
-Faça o download deste repositório, extraia o conteúdo para algum diretório conhecido.
-Em seu navegador, vá para a página **chrome://extensions**.
-Marque a checkbox **Developer mode**.
-Clique no botão **Carregar sem compactação** e selecione no diretório extraído a pasta Chrome
+- Faça o download deste repositório, extraia o conteúdo para algum diretório conhecido.
+- Em seu navegador, vá para a página **chrome://extensions**.
+- Marque a checkbox **Developer mode**.
+- Clique no botão **Carregar sem compactação** e selecione no diretório extraído a pasta Chrome.
 
 
 ### Instalar no Mozilla
 
 https://addons.mozilla.org/pt-BR/firefox/addon/coronga-mega-vacina-supimpa/
+
+
+## Como usar:
+
+Acesse qualquer pagina web que possua as palavras chaves "coronavirus, coronavírus, corona virus, corona vírus, covid-19, covid19, covid".
+
